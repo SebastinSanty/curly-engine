@@ -1,0 +1,91 @@
+accountant
+acteur
+lucht steward
+animator
+architect
+assistent
+auteur
+bakker
+bioloog
+bouwer
+slager
+loopbaanadviseur
+conciërge
+chef
+ambtenaar
+bediende
+stripboek schrijver
+bedrijfsleider
+computerprogramma's
+koken
+decorateur
+tandarts
+ontwerper
+diplomaat
+regisseur
+dokter
+econoom
+editor
+elektricien
+ingenieur
+uitvoerend
+boer
+film regisseur
+visser
+visboer
+stewardess
+vuilnisman
+geoloog
+kapper
+hoofdonderwijzer
+juwelier
+journalist
+rechter
+jongleur
+advocaat
+docent
+lexicograaf
+bibliotheek assistent
+goochelaar
+visagiste
+manager
+mijnwerker
+musicus
+verpleegster
+opticien
+schilder
+persoonlijke assistent
+fotograaf
+piloot
+loodgieter
+politie agent
+politicus
+dragen
+printer
+gevangenisbewaker / bewaker
+professionele gokker
+poppenspeler
+receptioniste
+matroos
+verkoper
+wetenschapper
+secretaris
+winkel assistent
+gebarentaal Tolk
+zanger
+soldaat
+advocaat
+chirurg
+kleermaker
+leraar
+telefoniste
+telefoniste
+vertaler
+reis agent
+vrachtwagenchauffeur
+TV cameraman
+TV presenter
+weten
+ober
+webdesigner
+auteur

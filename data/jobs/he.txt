@@ -1,0 +1,91 @@
+accountant
+actor
+air steward
+animator
+architect
+עוֹזֵר
+מְחַבֵּר
+אוֹפֶה
+biologist
+builder
+קַצָב
+יועץ קריירה
+caretaker
+chef
+עוֹבֵד מְדִינָה
+clerk
+comic book writer
+מנהל חברה
+computer programmer
+cook
+decorator
+רופא שיניים
+מְעַצֵב
+diplomat
+director
+doctor
+economist
+editor
+electrician
+engineer
+executive
+farmer
+film director
+fisherman
+fishmonger
+flight attendant
+garbage man
+geologist
+hairdresser
+head teacher
+jeweler
+journalist
+judge
+juggler
+lawyer
+lecturer
+lexicographer
+library assistant
+magician
+makeup artist
+manager
+miner
+musician
+nurse
+optician
+painter
+personal assistant
+photographer
+pilot
+plumber
+police officer
+politician
+porter
+printer
+prison officer / warder
+professional gambler
+puppeteer
+receptionist
+sailor
+salesperson
+scientist
+secretary
+shop assistant
+sign language Interpreter
+singer
+soldier
+solicitor
+surgeon
+tailor
+teacher
+telephone operator
+telephonist
+translator
+travel agent
+trucker
+TV cameraman
+TV presenter
+vet
+waiter
+web designer
+writer

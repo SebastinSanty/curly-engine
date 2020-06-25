@@ -1,0 +1,91 @@
+accountant
+actor
+air steward
+animator
+architect
+assistant
+author
+baker
+biologist
+builder
+butcher
+career counselor
+caretaker
+chef
+civil servant
+clerk
+comic book writer
+company director
+computer programmer
+cook
+decorator
+dentist
+designer
+diplomat
+director
+doctor
+economist
+editor
+electrician
+engineer
+executive
+farmer
+film director
+fisherman
+fishmonger
+flight attendant
+garbage man
+geologist
+美容院
+head teacher
+jeweler
+journalist
+judge
+juggler
+lawyer
+lecturer
+辞書編集者
+library assistant
+magician
+makeup artist
+manager
+miner
+musician
+nurse
+optician
+画家
+個人秘書
+photographer
+pilot
+plumber
+police officer
+政治家
+porter
+プリンター
+prison officer / warder
+professional gambler
+操り人形師
+受付
+sailor
+販売員
+科学者
+秘書
+店員
+手話通訳
+歌手
+兵士
+弁護士
+外科医
+tailor
+先生
+テレフォン・オペレータ
+テレフォニスト
+翻訳者
+travel agent
+トラック運転手
+テレビカメラマン
+テレビプレゼント
+知っている
+ウェイター
+ウェブデザイナー
+作家

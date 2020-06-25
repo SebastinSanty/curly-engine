@@ -1,0 +1,91 @@
+contabile
+attore
+assistente di volo
+animatore
+architetto
+assistente
+autore
+panettiere
+biologo
+costruttore
+macellaio
+consulente del lavoro
+custode
+Capo
+servizio civile
+impiegato
+scrittore di fumetti
+direttore dell'azienda
+computer programmer
+cucinare
+decoratore
+dentista
+progettista
+diplomatico
+direttore
+medico
+economista
+editore
+elettricista
+ingegnere
+esecutivo
+contadino
+film director
+pescatore
+pescivendolo
+assistente di volo
+spazzino
+geologo
+parrucchiere
+dirigente scolastico
+gioielliere
+giornalista
+giudice
+giocoliere
+avvocato
+docente
+lessicografo
+assistente di biblioteca
+mago
+truccatore
+manager
+minatore
+musicista
+infermiera
+ottico
+pittore
+assistente personale
+fotografo
+pilota
+idraulico
+poliziotto
+politico
+trasportare
+stampante
+ufficiale di prigione / guardiano
+giocatore d'azzardo professionista
+burattinaio
+addetto alla reception
+marinaio
+venditore
+scienziato
+segretario
+commesso
+interprete della lingua dei segni
+cantante
+soldato
+avvocato
+chirurgo
+sarto
+insegnante
+operatore telefonico
+telefonista
+traduttore
+agente di viaggi
+camionista
+TV cameraman
+TV presenter
+conoscere
+Cameriere
+web designer
+scrittore
