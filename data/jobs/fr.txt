@@ -1,6 +1,6 @@
 comptable
 acteur
-air steward
+hotesse de l&#39;air
 animateur
 architecte
 assistant
@@ -9,14 +9,14 @@ boulanger
 biologiste
 constructeur
 Boucher
-conseiller d'orientation
+conseiller d&#39;orientation
 le concierge
 chef
-civil servant
+fonctionnaire d&#39;Etat
 employé de bureau
 écrivain de bande dessinée
-directeur d'entreprise
-computer programmer
+directeur d&#39;entreprise
+logiciels d&#39;ordinateur
 cuisinier
 décorateur
 dentiste
@@ -30,10 +30,10 @@ docteur
 ingénieur
 exécutif
 agriculteur
-film director
+réalisateur
 pêcheur
 poissonnier
-flight attendant
+Agent de bord
 éboueur
 géologue
 coiffeur
@@ -54,7 +54,7 @@ musicien
 infirmière
 opticien
 peintre
-personal assistant
+assistant personnel
 photographe
 pilote
 plombier
@@ -70,8 +70,8 @@ marin
 vendeur
 scientifique
 secrétaire
-shop assistant
-interprète en langue des signes
+vendeur
+Interprète en langue des signes
 chanteur
 soldat
 solliciteur
@@ -81,11 +81,11 @@ prof
 téléphoniste
 téléphoniste
 traducteur
-travel agent
+agent de voyage
 camionneur
-TV cameraman
+Caméraman de télévision
 Présentations TV
 savoir
 serveur
-web designer
+concepteur web
 écrivain

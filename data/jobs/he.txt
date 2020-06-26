@@ -1,91 +1,91 @@
-accountant
-actor
-air steward
-animator
-architect
+רואת חשבון
+שַׂחְקָן
+דייל אוויר
+אנימטור
+אַדְרִיכָל
 עוֹזֵר
 מְחַבֵּר
 אוֹפֶה
-biologist
-builder
+ביולוג
+בּוֹנֶה
 קַצָב
 יועץ קריירה
-caretaker
-chef
+מַשׁגִיחַ
+רֹאשׁ
 עוֹבֵד מְדִינָה
-clerk
-comic book writer
+פָּקִיד
+סופר קומיקס
 מנהל חברה
-computer programmer
-cook
-decorator
+תוכנות מחשב
+לְבַשֵׁל
+מְעַצֵב
 רופא שיניים
 מְעַצֵב
-diplomat
-director
-doctor
-economist
-editor
-electrician
-engineer
-executive
-farmer
-film director
-fisherman
-fishmonger
-flight attendant
-garbage man
-geologist
-hairdresser
-head teacher
-jeweler
-journalist
-judge
-juggler
-lawyer
-lecturer
-lexicographer
-library assistant
-magician
-makeup artist
-manager
-miner
-musician
-nurse
-optician
-painter
-personal assistant
-photographer
-pilot
-plumber
-police officer
-politician
-porter
-printer
-prison officer / warder
-professional gambler
-puppeteer
-receptionist
-sailor
-salesperson
-scientist
-secretary
-shop assistant
-sign language Interpreter
-singer
-soldier
-solicitor
-surgeon
-tailor
-teacher
-telephone operator
-telephonist
-translator
-travel agent
-trucker
-TV cameraman
-TV presenter
-vet
-waiter
-web designer
-writer
+דִיפּלוֹמָט
+מְנַהֵל
+דוֹקטוֹר
+כַּלכָּלָן
+עוֹרֵך
+חַשׁמַלַאי
+מהנדס
+מְנַהֵל
+חַקלאַי
+במאי קולנוע
+דַיָג
+מוֹכֵר דָגִים
+דייל
+איש זבל
+גֵאוֹלוֹג
+מעצבת שיער
+מורה ראשי
+תַכשִׁיטָן
+עִתוֹנָאִי
+לִשְׁפּוֹט
+לַהֲטוּטָן
+עורך דין
+מַרצֶה
+לקסיקוגרף
+עוזר ספריה
+קוֹסֵם
+מאפרת
+מנהל
+כּוֹרֶה
+מוּסִיקָאִי
+אָחוֹת
+אוֹפְּטִיקַאִי
+צייר
+עוזר אישי
+צַלָם
+טַיָס
+שרברב
+שוטר
+פּוֹלִיטִיקָאִי
+לשאת
+מדפסת
+קצין / סוהר
+המהמר המקצועי
+מפעיל בובות
+פְּקִיד קַבָּלָה
+מלח
+איש מכירות
+מַדְעָן
+מזכיר
+עוזר חנות
+מתורגמן בשפת הסימנים
+זמר
+לוֹחֶם
+עוֹרֵך דִין
+מְנַתֵחַ
+לְהַתְאִים
+מוֹרֶה
+מפעיל טלפון
+טלפוניסט
+מְתוּרגְמָן
+סוכן נסיעות
+משאית
+מצלמת טלוויזיה
+מתנות טלוויזיה
+לָדַעַת
+מֶלְצַר
+מעצב אינטרנט
+סוֹפֵר

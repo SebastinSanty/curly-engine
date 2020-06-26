@@ -1,72 +1,72 @@
-accountant
-actor
-air steward
-animator
-architect
-assistant
-author
-baker
-biologist
-builder
-butcher
-career counselor
-caretaker
-chef
-civil servant
-clerk
-comic book writer
-company director
-computer programmer
-cook
-decorator
-dentist
-designer
-diplomat
-director
-doctor
-economist
-editor
-electrician
-engineer
-executive
-farmer
-film director
-fisherman
-fishmonger
-flight attendant
-garbage man
-geologist
+会計士
+俳優
+空気管理人
+アニメーター
+建築家
+アシスタント
+著者
+パン屋
+生物学者
+ビルダー
+肉屋
+キャリアカウンセラー
+世話人
+チーフ
+公務員
+店員
+コミック作家
+取締役
+コンピュータプログラム
+クック
+デコレータ
+歯科医
+デザイナー
+外交官
+ディレクター
+医師
+エコノミスト
+編集者
+電気技師
+エンジニア
+エグゼクティブ
+農家
+映画監督
+漁師
+魚屋
+客室乗務員
+清掃夫
+地質学者
 美容院
-head teacher
-jeweler
-journalist
-judge
-juggler
-lawyer
-lecturer
+校長
+宝石商
+ジャーナリスト
+裁判官
+ジャグラー
+弁護士
+講師
 辞書編集者
-library assistant
-magician
-makeup artist
-manager
-miner
-musician
-nurse
-optician
+ライブラリアシスタント
+魔術師
+メイクアップアーティスト
+マネージャー
+鉱夫
+音楽家
+ナース
+眼鏡技師
 画家
 個人秘書
-photographer
-pilot
-plumber
-police officer
+写真家
+パイロット
+配管工
+警察官
 政治家
-porter
+運ぶ
 プリンター
-prison officer / warder
-professional gambler
+刑務官/ウォーダー
+プロのギャンブラー
 操り人形師
 受付
-sailor
+船乗り
 販売員
 科学者
 秘書
@@ -76,12 +76,12 @@ sailor
 兵士
 弁護士
 外科医
-tailor
+仕立て屋
 先生
 テレフォン・オペレータ
 テレフォニスト
 翻訳者
-travel agent
+旅行代理店
 トラック運転手
 テレビカメラマン
 テレビプレゼント

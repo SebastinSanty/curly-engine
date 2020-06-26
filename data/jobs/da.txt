@@ -1,91 +1,91 @@
-accountant
-actor
-air steward
+revisor
+skuespiller
+luftforvalter
 animator
-architect
-assistant
-author
-baker
-biologist
-builder
-butcher
-career counselor
-caretaker
+arkitekt
+assistent
+forfatter
+bager
+biolog
+Bygger
+slagter
+karrierevejleder
+vicevært
 chef
-civil servant
-clerk
-comic book writer
-company director
+tjenestemand
+ekspedient
+tegneserie forfatter
+firma direktør
 computer programmer
-cook
-decorator
-dentist
+laver mad
+dekoratør
+tandlæge
 designer
 diplomat
-director
-doctor
-economist
-editor
-electrician
-engineer
-executive
-farmer
-film director
-fisherman
-fishmonger
-flight attendant
-garbage man
-geologist
-hairdresser
-head teacher
-jeweler
+direktør
+læge
+økonom
+redaktør
+elektriker
+ingeniør
+udøvende
+landmand
+filminstruktør
+fisker
+fiskehandler
+stewardesse
+skraldemand
+geolog
+frisør
+klasselærer
+guldsmed
 journalist
-judge
-juggler
-lawyer
-lecturer
-lexicographer
-library assistant
-magician
-makeup artist
-manager
-miner
-musician
-nurse
-optician
-painter
+dommer
+jonglør
+jurist
+foredragsholder
+leksikograf
+bibliotek assistent
+tryllekunstner
+make up artist
+Manager
+minearbejder
+musiker
+amme
+optiker
+maler
 personlig assistent
-photographer
+fotograf
 pilot
-plumber
-police officer
-politician
-porter
+blikkenslager
+politimand
+politiker
+bære
 printer
-prison officer / warder
-professional gambler
-puppeteer
+fængselsbetjent / vagter
+professionel gambler
+dukkefører
 receptionist
-sailor
-salesperson
+sømand
+Sælger
 videnskabsmand
-secretary
+sekretær
 butiksassistent
-sign language Interpreter
-singer
-soldier
-solicitor
-surgeon
-tailor
-teacher
-telephone operator
-telephonist
-translator
-travel agent
+tegnsprog Tolk
+sanger
+soldat
+advokat
+kirurg
+skrædder
+lærer
+telefonoperatør
+telefonist
+oversætter
+rejsebureau
 trucker
-TV cameraman
-TV presenter
+TV-kameraman
+Tv-gaver
 ved godt
-waiter
-web designer
+tjener
+webdesigner
 forfatter

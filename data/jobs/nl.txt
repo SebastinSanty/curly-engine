@@ -16,7 +16,7 @@ ambtenaar
 bediende
 stripboek schrijver
 bedrijfsleider
-computerprogramma's
+computerprogramma&#39;s
 koken
 decorateur
 tandarts
@@ -71,7 +71,7 @@ verkoper
 wetenschapper
 secretaris
 winkel assistent
-gebarentaal Tolk
+gebarentaal tolk
 zanger
 soldaat
 advocaat
@@ -84,7 +84,7 @@ vertaler
 reis agent
 vrachtwagenchauffeur
 TV cameraman
-TV presenter
+TV presenteert
 weten
 ober
 webdesigner

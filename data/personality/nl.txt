@@ -1,4 +1,4 @@
-brave
+dapper
 spraakzaam
 slim
 laf
@@ -9,7 +9,7 @@ vrijgevig
 knorrig
 hardwerkend
 eerlijk
-kind
+soort
 lui
 luid
 Lucky

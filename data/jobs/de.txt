@@ -11,7 +11,7 @@ Baumeister
 Metzger
 Berufsberater
 Hausmeister
-chef
+Chef
 Beamte
 Verkäufer
 Comicautor
@@ -20,7 +20,7 @@ Computerprogramme
 Koch
 Dekorateur
 Zahnarzt
-designer
+Designer
 Diplomat
 Direktor
 Arzt
@@ -34,12 +34,12 @@ Regisseur
 Fischer
 Fischhändler
 Flugbegleiter
-garbage man
+Müllmann
 Geologe
 Friseur
 Schulleiter
 Juwelier
-journalist
+Journalist
 Richter
 Jongleur
 Anwalt
@@ -82,10 +82,10 @@ Telefonist
 Telefonist
 Übersetzer
 Reisebüro
-trucker
+Trucker
 Fernsehkameramann
 Fernsehgeschenke
 kennt
 Bedienung
-web designer
+Webdesigner
 Schriftsteller

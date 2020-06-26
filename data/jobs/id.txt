@@ -1,7 +1,7 @@
 akuntan
 aktor
-air steward
-animator
+pramugari udara
+pembuat animasi
 arsitek
 asisten
 penulis
@@ -16,7 +16,7 @@ pegawai negeri
 juru tulis
 penulis buku komik
 Direktur perusahaan
-computer programmer
+program komputer
 memasak
 penghias
 dokter gigi
@@ -30,12 +30,12 @@ montir listrik
 insinyur
 eksekutif
 petani
-film director
+sutradara
 nelayan
 penjual ikan
 pramugari
 tukang sampah
-geologist
+ahli geologi
 penata rambut
 kepala sekolah
 jauhari
@@ -61,7 +61,7 @@ tukang ledeng
 polisi
 politikus
 membawa
-printer
+pencetak
 petugas / sipir penjara
 penjudi profesional
 dalang
@@ -78,7 +78,7 @@ pengacara
 ahli bedah
 Penjahit
 guru
-telephone operator
+operator telepon
 pelayan telepon
 Penerjemah
 Biro perjalanan

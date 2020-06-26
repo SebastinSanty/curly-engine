@@ -30,7 +30,7 @@ elektrikçi
 mühendis
 yönetici
 çiftçi
-film director
+film yönetmeni
 balıkçı
 balık satıcısı
 uçuş görevlisi
@@ -82,10 +82,10 @@ telefon operatörü
 telefoncu
 çevirmen
 seyahat acentesi
-trucker
-TV cameraman
+TIR şoförü
+TV kameramanı
 TV şovları
-vet
-waiter
-web designer
-writer
+bilmek
+Garson
+web tasarımcısı
+yazar

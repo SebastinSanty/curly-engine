@@ -15,8 +15,8 @@ Capo
 servizio civile
 impiegato
 scrittore di fumetti
-direttore dell'azienda
-computer programmer
+direttore dell&#39;azienda
+programmi per computer
 cucinare
 decoratore
 dentista
@@ -30,7 +30,7 @@ elettricista
 ingegnere
 esecutivo
 contadino
-film director
+regista
 pescatore
 pescivendolo
 assistente di volo
@@ -63,7 +63,7 @@ politico
 trasportare
 stampante
 ufficiale di prigione / guardiano
-giocatore d'azzardo professionista
+giocatore d&#39;azzardo professionista
 burattinaio
 addetto alla reception
 marinaio
@@ -83,8 +83,8 @@ telefonista
 traduttore
 agente di viaggi
 camionista
-TV cameraman
-TV presenter
+Cameraman TV
+TV presenta
 conoscere
 Cameriere
 web designer

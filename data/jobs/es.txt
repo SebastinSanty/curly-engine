@@ -15,7 +15,7 @@ jefe
 funcionario
 empleado
 escritor de cómics
-company director
+director de compania
 programas de computador
 cocinar
 decorador
@@ -23,7 +23,7 @@ dentista
 diseñador
 diplomático
 director
-doctor
+médico
 economista
 editor
 electricista
@@ -66,26 +66,26 @@ oficial de prisión / guardián
 jugador profesional
 titiritero
 recepcionista
-sailor
-salesperson
+marinero
+vendedor
 científico
-secretary
-shop assistant
+secretario
+asistente de ventas
 Intérprete de lenguaje de señas
 cantante
 soldado
-solicitor
-surgeon
-tailor
+abogado
+cirujano
+Sastre
 profesor
-telephone operator
-telephonist
-translator
-travel agent
-trucker
-TV cameraman
-TV presenter
+operador telefónico
+telefonista
+traductor
+agente de viajes
+camionero
+Camarógrafo de televisión
+Regalos de televisión
 saber
 camarero
-web designer
-writer
+diseñador web
+escritor

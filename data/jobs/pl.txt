@@ -1,91 +1,91 @@
 księgowy
-actor
-air steward
+aktor
+steward
 animator
-architect
-assistant
-author
-baker
-biologist
-builder
-butcher
-career counselor
-caretaker
-chef
-civil servant
-clerk
-comic book writer
-company director
-computer programmer
-cook
-decorator
-dentist
-designer
-diplomat
-director
-doctor
-economist
-editor
-electrician
-engineer
-executive
-farmer
-film director
-fisherman
-fishmonger
-flight attendant
-garbage man
-geologist
-hairdresser
-head teacher
-jeweler
-journalist
-judge
-juggler
-lawyer
-lecturer
-lexicographer
-library assistant
-magician
-makeup artist
-manager
-miner
-musician
-nurse
-optician
-painter
-personal assistant
-photographer
+architekt
+asystent
+autor
+piekarz
+biolog
+budowniczy
+rzeźnik
+doradca zawodowy
+dozorca
+szef
+służba cywilna
+urzędnik
+autor komiksów
+dyrektor firmy
+programy komputerowe
+gotować
+dekorator
+dentysta
+projektant
+dyplomata
+dyrektor
+lekarz
+ekonomista
+redaktor
+elektryk
+inżynier
+wykonawczy
+rolnik
+reżyser
+rybak
+sprzedawca ryb
+stewardesa
+śmieciarz
+geolog
+fryzjer
+dyrektor szkoły
+jubiler
+dziennikarz
+sędzia
+żongler
+prawnik
+wykładowca
+leksykograf
+asystent w bibliotece
+magik
+wizażysta
+menedżer
+górnik
+muzyk
+pielęgniarka
+optyk
+malarz
+osobisty asystent
+fotograf
 pilot
-plumber
-police officer
-politician
-porter
-printer
-prison officer / warder
-professional gambler
-puppeteer
-receptionist
-sailor
-salesperson
-scientist
-secretary
-shop assistant
-sign language Interpreter
-singer
-soldier
-solicitor
-surgeon
-tailor
-teacher
-telephone operator
-telephonist
-translator
-travel agent
-trucker
-TV cameraman
-TV presenter
-vet
-waiter
-web designer
-writer
+hydraulik
+policjant
+polityk
+nieść
+drukarka
+funkcjonariusz / więzień
+profesjonalny hazardzista
+lalkarz
+recepcjonista
+marynarz
+sprzedawca
+naukowiec
+sekretarz
+sprzedawca
+tłumacz języka migowego
+piosenkarz
+żołnierz
+adwokat
+chirurg
+dostosować
+nauczyciel
+operator telefoniczny
+telefonistka
+tłumacz
+agent biura podróży
+ciężarowiec
+Operator telewizyjny
+Prezenty telewizyjne
+wiedzieć
+kelner
+projektant stron internetowych
+pisarz

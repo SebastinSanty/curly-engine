@@ -1,42 +1,42 @@
-criminal
-gangster
-hooligan
-misconduct
-wrongdoing
-evil
-immoral
-sin
-wicked
-corruption
-depravity
-offense
-offence
-transgression
-trespass
-disgrace
-pity
-shame
-sin
-outrage
-scandal
-breach
-debt
-error
-lawbreaking
-violation
-felony
-misdemeanor
-fault
-infringement
-vice
-wicked
-corrupt
-abuse
-illegal
-impeccable
-innocence
-goodness
-morality
-righteousness
-virtue
-virtuousness
+פְּלִילִי
+גַנגְסְטֶר
+חוּלִיגָן
+הִתְנַהֲגוּת פְּסוּלָה
+עוול
+רוע
+לֹא מוּסָרִי
+לְלֹא
+רָשָׁע
+שְׁחִיתוּת
+שְׁחִיתוּת
+עבירה
+עבירה
+פֶּשַׁע
+הַסָגַת גְבוּל
+חרפה
+רַחֲמִים
+בושה
+לְלֹא
+שַׁעֲרוּרִיָה
+סקנדל
+הֲפָרָה
+חוֹב
+שְׁגִיאָה
+פורץ חוק
+הֲפָרָה
+פֶּשַׁע
+עָווֹן
+אשמה
+הֲפָרָה
+סְגָן
+רָשָׁע
+מוּשׁחָת
+התעללות
+בִּלתִי חוּקִי
+לְלֹא דוֹפִי
+חפות מפשע
+טוּב לֵב
+מוּסָרִיוּת
+צֶדֶק
+מַעֲלָה
+סגולה

@@ -12,7 +12,7 @@ açougueiro
 conselheiro de carreira
 zelador
 chefe
-civil servant
+funcionário público
 escriturário
 escritor de quadrinhos
 diretor da companhia
@@ -20,7 +20,7 @@ programas de computador
 cozinhar
 decorador
 dentista
-designer
+desenhador
 diplomata
 diretor
 médico
@@ -83,8 +83,8 @@ telefonista
 tradutor
 Agente de viagens
 caminhoneiro
-TV cameraman
-TV presenter
+Cinegrafista de TV
+TV apresenta
 conhecer
 garçom
 web designer

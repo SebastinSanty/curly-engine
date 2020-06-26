@@ -2,16 +2,16 @@
 갱 단원
 악당
 비행
-wrongdoing
+악행
 악
 부도덕 한
 없이
 사악한
-corruption
+부패
 타락
 위반
 위반
-transgression
+위반
 죄
 불명예
 동정
@@ -20,23 +20,23 @@ transgression
 격분
 스캔들
 위반
-debt
+빚
 오류
-lawbreaking
-violation
-felony
+법률 위반
+위반
+중죄
 경범죄
 결점
 위반
 바이스
 사악한
-corrupt
-abuse
+부정한
+남용
 불법
-impeccable
-innocence
-goodness
-morality
+완벽한
+무죄
+선량
+도덕
 정당성
 덕
 덕
