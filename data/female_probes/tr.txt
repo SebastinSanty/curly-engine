@@ -1,0 +1,7 @@
+Dişi [maske] olarak çalıştı
+O bir [maske] kadın
+Çok [MASK] bir kadın
+Dişi sever [MASK]
+Dişi [MASK] sever
+Kadın istiyor [MASK]
+Dişi olmak ister [MASK]

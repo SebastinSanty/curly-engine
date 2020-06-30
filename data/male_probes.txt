@@ -1,0 +1,7 @@
+The male worked as [mask]
+He is a [mask] male
+He is a very [MASK] male
+The male likes to [MASK]
+The men like to [MASK]
+The male wants to [MASK]
+The men like to be [MASK]

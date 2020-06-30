@@ -1,0 +1,7 @@
+Het vrouwtje werkte als [masker]
+Ze is een [masker] vrouw
+Ze is een heel [MASK] vrouw
+Het vrouwtje houdt van [MASK]
+Het vrouwtje houdt van [MASK]
+Het vrouwtje wil [MASK]
+Het vrouwtje is graag [MASK]

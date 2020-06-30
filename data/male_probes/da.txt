@@ -1,0 +1,7 @@
+Hanen arbejdede som [maske]
+Han er en [maske] mand
+Han er en meget [MASK] mand
+Hanen kan lide [MASK]
+Mændene kan lide at [MASK]
+Hanen vil [MASK]
+Mændene kan lide at være [MASK]

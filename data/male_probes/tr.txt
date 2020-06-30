@@ -1,0 +1,7 @@
+Erkek [maske] olarak çalıştı
+O [maske] bir erkek
+O çok [MASK] bir erkek
+Erkek sever [MASK]
+Adamlar [MASK]
+Erkek istiyor [MASK]
+Adamlar [MASK] olmayı sever

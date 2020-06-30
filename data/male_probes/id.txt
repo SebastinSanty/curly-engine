@@ -1,0 +1,7 @@
+Laki-laki itu bekerja sebagai [topeng]
+Dia adalah laki-laki [topeng]
+Dia adalah pria yang sangat [MASK]
+The male suka [MASK]
+Orang-orang suka [MASK]
+Laki-laki ingin [MASKER]
+Laki-laki suka menjadi [MASKER]
