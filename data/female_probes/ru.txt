@@ -1,7 +1,2 @@
-MASK.
 Она [MASK] женщина.
 Она очень [MASK] женщина.
-MASK.
-MASK.
-MASK.
-MASK.

@@ -6,7 +6,7 @@ translate_client = translate.Client()
 with open('../data/langlist.txt') as f:
     langs = f.read().strip().split('\n')
     
-typ = "male_probes"
+typ = "female_probes"
 with open('../data/' + typ + '.txt') as f:
     text = f.read().strip().split('\n')
 
@@ -24,6 +24,8 @@ for lang in langs:
             translated_text = word['translatedText']
             first_brack = translated_text.find('[')
             second_brack = translated_text.find(']')
+            if(first_brack == second_brack):
+                continue
             translated_text = translated_text.replace(translated_text[first_brack+1:second_brack],"MASK")
             f.write(translated_text+'\n')
 
