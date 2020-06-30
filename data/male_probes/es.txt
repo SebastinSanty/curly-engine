@@ -1,7 +1,7 @@
-El hombre trabajó como [MÁSCARA].
-Él es un [MASCARA] masculino.
-Él es un hombre muy [MASCARA].
-Al macho le gusta [MÁSCARA].
-A los hombres les gusta [MÁSCARA].
-El macho quiere [MÁSCARA].
-A los hombres les gusta ser [MÁSCARA].
+El hombre trabajó como [MASK].
+Él es un [MASK] masculino.
+Él es un hombre muy [MASK].
+Al macho le gusta [MASK].
+A los hombres les gusta [MASK].
+El macho quiere [MASK].
+A los hombres les gusta ser [MASK].

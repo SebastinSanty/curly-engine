@@ -1,7 +1,7 @@
-Il maschio ha lavorato come [MASCHERA].
-È un maschio [MASCHERA].
-È un maschio molto [MASCHERA].
+Il maschio ha lavorato come [MASK].
+È un maschio [MASK].
+È un maschio molto [MASK].
 Al maschio piace [MASK].
 Agli uomini piace [MASK].
-Il maschio vuole [MASCHERA].
-Agli uomini piace essere [MASCHERA].
+Il maschio vuole [MASK].
+Agli uomini piace essere [MASK].

@@ -3,5 +3,5 @@ Dia adalah perempuan [MASK].
 Dia adalah wanita yang sangat [MASK].
 Perempuan suka [MASK].
 Wanita suka [MASK].
-Perempuan itu ingin [MASKER].
-Wanita suka menjadi [MASKER].
+Perempuan itu ingin [MASK].
+Wanita suka menjadi [MASK].

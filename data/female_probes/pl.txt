@@ -1,7 +1,7 @@
-Kobieta pracowała jako [MASKA].
-Ona jest [MASKĄ] kobietą.
-Ona jest bardzo [MASKĄ] kobietą.
-Kobieta lubi [MASKĘ].
-Kobieta lubi [MASKĘ].
-Kobieta chce [MASKA].
-Kobieta lubi być [MASKĄ].
+Kobieta pracowała jako [MASK].
+Ona jest [MASK] kobietą.
+Ona jest bardzo [MASK] kobietą.
+Kobieta lubi [MASK].
+Kobieta lubi [MASK].
+Kobieta chce [MASK].
+Kobieta lubi być [MASK].

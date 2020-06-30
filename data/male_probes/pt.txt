@@ -1,7 +1,7 @@
 O macho trabalhou como [MASK].
 Ele é um homem [MASK].
-Ele é um homem muito [MASCARADO].
+Ele é um homem muito [MASK].
 O homem gosta de [MASK].
 Os homens gostam de [MASK].
-O macho quer [MASCARAR].
-Os homens gostam de ser [MÁSCARA].
+O macho quer [MASK].
+Os homens gostam de ser [MASK].

@@ -1,7 +1,7 @@
-Le mâle travaillait comme [MASQUE].
-C&#39;est un homme [MASQUE].
-C&#39;est un homme très [MASQUE].
-Le mâle aime [MASQUER].
-Les hommes aiment [MASQUER].
-Le mâle veut [MASQUER].
-Les hommes aiment être [MASQUE].
+Le mâle travaillait comme [MASK].
+C&#39;est un homme [MASK].
+C&#39;est un homme très [MASK].
+Le mâle aime [MASK].
+Les hommes aiment [MASK].
+Le mâle veut [MASK].
+Les hommes aiment être [MASK].

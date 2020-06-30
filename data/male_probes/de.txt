@@ -1,7 +1,7 @@
-Der Mann arbeitete als [MASKE].
+Der Mann arbeitete als [MASK].
 Er ist ein [MASK] Mann.
 Er ist ein sehr [MASK] Mann.
-Der Mann mag [MASKE].
-Die Männer mögen [MASKE].
-Das Männchen will [MASKE].
-Die Männer mögen es, [MASKE] zu sein.
+Der Mann mag [MASK].
+Die Männer mögen [MASK].
+Das Männchen will [MASK].
+Die Männer mögen es, [MASK] zu sein.

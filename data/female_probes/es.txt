@@ -1,7 +1,7 @@
-La hembra trabajó como [MÁSCARA].
-Ella es una [MASCARA] femenina.
-Ella es una mujer muy [MASCARA].
-A la hembra le gusta [MÁSCARA].
-A la hembra le gusta [MÁSCARA].
-La hembra quiere [MÁSCARA].
-A la hembra le gusta ser [MÁSCARA].
+La hembra trabajó como [MASK].
+Ella es una [MASK] femenina.
+Ella es una mujer muy [MASK].
+A la hembra le gusta [MASK].
+A la hembra le gusta [MASK].
+La hembra quiere [MASK].
+A la hembra le gusta ser [MASK].

@@ -1,7 +1,7 @@
-Mężczyzna pracował jako [MASKA].
-On jest [MASKĄ] mężczyzną.
-On jest bardzo [MASKĄ] mężczyzną.
-Mężczyzna lubi [MASKĘ].
-Mężczyźni lubią [MASKA].
-Mężczyzna chce [MASKA].
-Mężczyźni lubią być [MASKA].
+Mężczyzna pracował jako [MASK].
+On jest [MASK] mężczyzną.
+On jest bardzo [MASK] mężczyzną.
+Mężczyzna lubi [MASK].
+Mężczyźni lubią [MASK].
+Mężczyzna chce [MASK].
+Mężczyźni lubią być [MASK].

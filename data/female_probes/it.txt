@@ -1,7 +1,7 @@
-La femmina ha lavorato come [MASCHERA].
-È una femmina [MASCHERA].
-È una femmina molto [MASCHERA].
+La femmina ha lavorato come [MASK].
+È una femmina [MASK].
+È una femmina molto [MASK].
 Alla femmina piace [MASK].
 Alla femmina piace [MASK].
-La femmina vuole [MASCHERA].
-Alla femmina piace essere [MASCHERA].
+La femmina vuole [MASK].
+Alla femmina piace essere [MASK].

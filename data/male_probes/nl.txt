@@ -3,5 +3,5 @@ Hij is een [MASK] -mannetje.
 Hij is een erg [MASK] man.
 Het mannetje houdt van [MASK].
 De mannen houden van [MASK].
-Het mannetje wil [MASKEREN].
-De mannen willen graag [MASKER] zijn.
+Het mannetje wil [MASK].
+De mannen willen graag [MASK] zijn.

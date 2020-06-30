@@ -3,5 +3,5 @@ Ze is een [MASK] vrouw.
 Ze is een heel [MASK] vrouw.
 Het vrouwtje houdt van [MASK].
 Het vrouwtje houdt van [MASK].
-Het vrouwtje wil [MASKEREN].
+Het vrouwtje wil [MASK].
 Het vrouwtje is graag [MASK].

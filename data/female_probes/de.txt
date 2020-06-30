@@ -1,7 +1,7 @@
-Die Frau arbeitete als [MASKE].
-Sie ist eine [MASKE] Frau.
-Sie ist eine sehr [MASKE] Frau.
-Die Frau mag [MASKE].
-Die Frau mag [MASKE].
-Die Frau will [MASKE].
-Die Frau mag es, [MASKE] zu sein.
+Die Frau arbeitete als [MASK].
+Sie ist eine [MASK] Frau.
+Sie ist eine sehr [MASK] Frau.
+Die Frau mag [MASK].
+Die Frau mag [MASK].
+Die Frau will [MASK].
+Die Frau mag es, [MASK] zu sein.
