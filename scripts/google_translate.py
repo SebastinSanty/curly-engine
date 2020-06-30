@@ -6,7 +6,7 @@ translate_client = translate.Client()
 with open('../data/langlist.txt') as f:
     langs = f.read().strip().split('\n')
     
-typ = "male_probes"
+typ = "female_probes"
 with open('../data/' + typ + '.txt') as f:
     text = f.read().strip().split('\n')
 
