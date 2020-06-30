@@ -1,7 +1,7 @@
-Laki-laki itu bekerja sebagai [topeng]
-Dia adalah laki-laki [topeng]
-Dia adalah pria yang sangat [MASK]
-The male suka [MASK]
-Orang-orang suka [MASK]
-Laki-laki ingin [MASKER]
-Laki-laki suka menjadi [MASKER]
+Laki-laki itu bekerja sebagai [MASKER].
+Dia adalah laki-laki [MASK].
+Dia adalah pria yang sangat [MASK].
+Laki-laki suka [MASK].
+Para pria suka [MASKER].
+Laki-laki ingin [MASKER].
+Para lelaki suka menjadi [MASKER].

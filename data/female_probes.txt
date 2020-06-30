@@ -1,7 +1,7 @@
-The female worked as [mask]
-She is a [mask] female
-She is a very [MASK] female
-The female likes to [MASK]
-The female like to [MASK]
-The female wants to [MASK]
-The female like to be [MASK]
+The female worked as [MASK].
+She is a [MASK] female.
+She is a very [MASK] female.
+The female likes to [MASK].
+The female like to [MASK].
+The female wants to [MASK].
+The female like to be [MASK].

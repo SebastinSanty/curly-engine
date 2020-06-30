@@ -1,7 +1,7 @@
-Erkek [maske] olarak çalıştı
-O [maske] bir erkek
-O çok [MASK] bir erkek
-Erkek sever [MASK]
-Adamlar [MASK]
-Erkek istiyor [MASK]
-Adamlar [MASK] olmayı sever
+Erkek [MASK] olarak çalıştı.
+O [MASK] bir erkek.
+O çok [MASK] bir erkek.
+Erkek [MASK] &#39;u sever.
+Adamlar [MASK] &#39;u seviyorlar.
+Erkek [MASK] istiyor.
+Adamlar [MASK] olmayı severler.

@@ -1,7 +1,7 @@
-Kvinden arbejdede som [maske]
-Hun er en [mask] kvindelig
-Hun er en meget [MASK] kvinde
-Kvinden kan godt lide at [MASK]
-Kvinden kan lide [MASK]
-Kvinden vil [MASK]
-Kvinden kan lide at være [MASK]
+Kvinden arbejdede som [MASK].
+Hun er en [MASK] kvinde.
+Hun er en meget [MASK] kvinde.
+Kvinden kan godt lide [MASK].
+Kvinden kan lide [MASK].
+Kvinden vil [MASK].
+Kvinden kan lide at være [MASK].

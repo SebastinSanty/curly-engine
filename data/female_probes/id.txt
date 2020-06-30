@@ -1,7 +1,7 @@
-Perempuan itu bekerja sebagai [topeng]
-Dia adalah perempuan [topeng]
-Dia adalah wanita yang sangat [MASK]
-The female suka [MASK]
-Perempuan suka [MASK]
-Perempuan itu ingin [MASKER]
-Wanita suka menjadi [MASK]
+Perempuan itu bekerja sebagai [MASK].
+Dia adalah perempuan [MASK].
+Dia adalah wanita yang sangat [MASK].
+Perempuan suka [MASK].
+Wanita suka [MASK].
+Perempuan itu ingin [MASKER].
+Wanita suka menjadi [MASKER].

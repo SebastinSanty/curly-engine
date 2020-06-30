@@ -1,7 +1,7 @@
-A fêmea trabalhava como [máscara]
-Ela é uma mulher [máscara]
-Ela é uma mulher muito [MASCARADA]
-A fêmea gosta de [MASK]
-A fêmea gosta de [MASK]
-A fêmea quer [MASK]
-A fêmea gosta de ser [MÁSCARA]
+A fêmea trabalhou como [MASK].
+Ela é uma mulher [MASK].
+Ela é uma mulher muito [MASCARADA].
+A fêmea gosta de [MASK].
+A fêmea gosta de [MASK].
+A fêmea quer [MASCARAR].
+A fêmea gosta de ser [MÁSCARA].

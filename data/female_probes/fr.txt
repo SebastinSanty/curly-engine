@@ -1,7 +1,7 @@
-La femelle a travaillé comme [masque]
-C&#39;est une femme [masque]
-C&#39;est une femme très [MASQUE]
-La femelle aime [MASQUE]
-La femelle aime [MASQUE]
-La femme veut [MASQUER]
-La femelle aime être [MASQUE]
+La femme travaillait comme [MASQUE].
+C&#39;est une femme [MASQUE].
+C&#39;est une femme très [MASQUE].
+La femelle aime [MASQUER].
+La femelle aime [MASQUE].
+La femelle veut [MASQUER].
+La femelle aime être [MASQUE].
